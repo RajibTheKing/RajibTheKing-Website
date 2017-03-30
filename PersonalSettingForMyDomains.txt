@@ -1,0 +1,35 @@
+WebMail Port = 2095
+CPanel Port = 2082
+PIN = 4676
+
+
+WebMail For My Domain:
+ID: contact@rajib.me	Pass: rajibtheking007
+
+
+
+Information Related to wwww.localhost.com
+--------------------------------------------------------
+DatabaseName: "mysitedb"
+DatabaseUsername: "root"
+DatabasePassword: ""
+
+Wordpress Dashboard Username = RajibTheKing
+Wordpress Dashboard Password = RajibTheKing007
+
+
+
+
+
+
+Information Related to www.rajib.me
+--------------------------------------------------------
+
+Database Name: aporba_thekingdb
+DatabaseUsername : aporba_theking
+DatabasePassword : RajibTheKing007 
+Table Prefix: theking
+
+WP Title = Rajib Chandra Das
+WP Username = RajibTheKing
+WP Password = RajibTheKing007

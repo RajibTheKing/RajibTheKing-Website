@@ -1,0 +1,33 @@
+WWWAcct 12.5.0 (coffee) 2015 cPanel, Inc....
+
+Dns Zone check is enabled.
++===================================+
+| New Account Info                  |
++===================================+
+| Domain: rajib.me
+| Ip: 192.185.151.42 (n)
+| HasCgi: y
+| UserName: aporba
+| PassWord: WmAdT]),f308
+| CpanelMod: x3
+| HomeRoot: /home
+| Quota: 1000 Meg
+| NameServer1: ns1.peppershost.com
+| NameServer2: ns2.peppershost.com
+| NameServer3: 
+| NameServer4: 
+| Contact Email: aporba.das@gmail.com
+| Package: mkrahman_rajib
+| Feature List: default
+| Language: en
++===================================+
+
+New Credential:
+cPanel port: 2083
+IP: 94.23.24.22
+UserName: aporba
+Password: kHKL8WjrF2YWjbVPOJIG
+
+SSH Key PassPhrase: sust1234
+
+...Done
